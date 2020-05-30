@@ -13,3 +13,11 @@ Source Code
 
 Allure Report
 ![](https://i.imgur.com/bszcAdb.png)
+
+
+
+
+How to Generate Token ?
+
+
+Basic authentication using a password to the API is deprecated and will soon no longer work. Visit https://developer.github.com/changes/2020-02-14-deprecating-password-auth/ for more information around suggested workarounds and removal dates.
