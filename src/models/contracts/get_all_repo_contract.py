@@ -856,16 +856,6 @@ get_all_repos = {
                             0
                         ]
                     },
-                    "language": {
-                        "$id": "#/items/anyOf/0/properties/language",
-                        "type": "null",
-                        "title": "The language schema",
-                        "description": "An explanation about the purpose of this instance.",
-                        "default": None,
-                        "examples": [
-                            None
-                        ]
-                    },
                     "has_issues": {
                         "$id": "#/items/anyOf/0/properties/has_issues",
                         "type": "boolean",
