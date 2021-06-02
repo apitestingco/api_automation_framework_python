@@ -15,7 +15,7 @@ pyrsistent==0.16.0
 pytest==5.4.2
 requests==2.23.0
 six==1.14.0
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 zipp==3.1.0
 allure-pytest==2.8.15
@@ -37,7 +37,7 @@ pytest-html==2.1.1
 pytest-metadata==1.9.0
 requests==2.23.0
 six==1.14.0
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 zipp==3.1.0
 allure-pytest==2.8.15
@@ -59,6 +59,6 @@ pytest-html==2.1.1
 pytest-metadata==1.9.0
 requests==2.23.0
 six==1.14.0
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.1.9
 zipp==3.1.0
